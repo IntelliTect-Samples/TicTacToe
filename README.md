@@ -1,6 +1,8 @@
 # Tic Tac Toe
 Simple Tic Tac Toe Game that learns to play.
 
+You can play at: https://repl.it/@ericksong/TicTacToe
+
 I have heard of companies giving a Tic Tac Toe game as a project for potential applicants. As an interviewer, I wanted to assess how well it demonstrated my knowledge and see how long it would take me do to a quick and dirty implementation.
 
 ## My Requirements:
