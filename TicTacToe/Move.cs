@@ -27,6 +27,11 @@ namespace TicTacToe
             return false;
         }
 
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
         internal object Text()
         {
             return $"{Row},{Col}";
